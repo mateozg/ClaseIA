@@ -1,0 +1,7 @@
+# Archivo solicitado. Usa requirements.txt para instalar: pip install -r requirements.txt
+streamlit>=1.39
+groq>=0.11
+tiktoken>=0.8
+scikit-learn>=1.5
+sentence-transformers>=3.2
+pytest>=8.3
